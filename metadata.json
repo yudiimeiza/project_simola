@@ -1,0 +1,6 @@
+{
+  "name": "SiMola",
+  "description": "Professional vocational internship management system for students, supervisors, and admins. Features journal logging, attendance monitoring, and real-time validation.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}
